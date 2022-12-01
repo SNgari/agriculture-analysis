@@ -60,7 +60,8 @@ There were some gaps in our data that led to the exclusion of data from other co
 
 ### How daily food supply relates to the other 6 variables
 + Land area under agriculture had a slight positive relationship to daily food supply. This however, was among developing countries.
-+ GDP, and agricultural employment had a negative relationship with daily food supply+ Water usage had no effect on daily food supply in 2000, but a somewhat negative relationship in 2005
++ GDP, and agricultural employment had a negative relationship with daily food supply
++ Water usage had no effect on daily food supply in 2000, but a somewhat negative relationship in 2005
 ### 2000 Vs 2005 increase in land, employment, GDP, and food supply
 + Land Area: 
 Sierra Leone and Angola were the only coutries that increased in land area under agriculture.
